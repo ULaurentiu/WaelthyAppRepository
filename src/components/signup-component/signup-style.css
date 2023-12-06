@@ -1,0 +1,62 @@
+.test {
+    text-align: center;
+    padding:50px 134px 57px
+}
+
+.text-title {
+    color: #101D2B;
+    font-size: 24px;
+    font-family: Satoshi;
+    font-weight: 700;
+    word-wrap: break-word
+}
+
+.text-join {
+    color: #BFBFBF;
+    font-size: 14px;
+    font-family: Satoshi;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+.title-container{
+    text-align: center;
+}
+
+.text-personal {
+    color: #101D2B;
+    font-size: 20px;
+    font-family: Satoshi;
+    font-weight: 700;
+    word-wrap: break-word;
+    text-align: center;
+    padding-top: 32px;
+}
+
+.signup-main-container {
+    border-radius: 32px;
+    border-color: black;
+}
+
+.input-box {
+    border-radius: 8px;
+    border: 1px #EEECEC solid;
+    width: 80%;
+    gap: 10px;
+}
+
+.tez {
+
+}
+
+.tezx{
+
+}
+
+.button-centre{
+    text-align: center;
+}
+
+.test-1 {
+    padding: 24px 20px 16px;
+}

@@ -1,0 +1,133 @@
+a:link { 
+    text-decoration: none; 
+}
+
+.waelthyheader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 90px 16px 90px;
+}   
+
+.container-second-text {
+    padding: 130px 0px 50px 193px;
+    margin-right: 30px;
+}
+
+.align-container {
+    text-align: center;
+    padding: 84px 230px 85px;
+}
+
+.larger-button {
+    background-color: #266CAA;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: Satoshi;
+    font-weight: 500;
+    word-wrap: break-word;
+    border-radius: 8px;
+    padding: 8px 10px 8px 10px;
+    width: 194px;
+    height: 48px;
+}
+
+.input {
+    width: 540px;
+}
+
+.container-spacing {
+    padding: 81px 124px;
+}
+
+.text-spacing {
+    padding:129px 50px 209px 90px;
+}
+
+.headerdisplay {
+    display:flex
+}
+
+.footerdisplay {
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 90px 32px 90px;
+}
+
+.footer-align .selected-children{
+    margin-right: 30px;
+}
+
+.footer-align-icon .selected-child{
+    margin-right: 24px;
+}
+
+.header-button-signup {
+    background-color: #266CAA;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: Satoshi;
+    font-weight: 500;
+    word-wrap: break-word;
+    border-radius: 8px;
+    padding: 8px 10px 8px 10px;
+    width: 152px;
+    height: 40px;
+}
+
+.header-button-signin {
+    color: #101D2B;
+    border-color: #C9C7C7;
+    font-size: 14px;
+    font-family: Satoshi;
+    font-weight: 500;
+    word-wrap: break-word;
+    margin-right: 16px;
+    border-radius: 8px;
+    padding: 8px 10px 8px 10px;
+    width: 152px;
+    height: 40px;
+}
+
+.text-style {
+    color: #101D2B;
+    font-size: 16px;
+    font-family: Satoshi;
+    font-weight: 700;
+    text-transform: capitalize;
+    word-wrap: break-word;
+    width: 71px;
+    height: 22px;
+    margin-right: 48px;
+}
+
+.wealthytext {
+    color: #0A8E3D;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-weight: 600;
+    word-wrap: break-word;
+    margin-left: 8px;
+}
+
+.phone-image {
+    padding: 63px 121px 64px 50px;
+}
+
+.main {
+    padding: 10px;
+    background-color:#FFFFFF;
+}
+
+.container {
+    display: flex;
+}
+
+.headerstyle {
+    color: #101D2B;
+    font-size: 60px;
+    font-family: Satoshi;
+    font-weight: 700;
+    line-height: 74px;
+    word-wrap: break-word
+}
