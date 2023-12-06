@@ -6,12 +6,13 @@ import instagramicon from '../public/instagram-icon.svg';
 import twittericon from '../public/twitter-icon.svg';
 import telegramicon from '../public/telegram-icon.svg';
 import './styles/style.css';
-import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Link } from 'react-router-dom';
 import React from 'react';
 
 const Home: React.FC = () => {
 
   return (
+    <Router>
     <div className='main'>
       <div>
         <header className='waelthyheader'>
@@ -137,6 +138,7 @@ const Home: React.FC = () => {
         </footer>
       </div>    
     </div>
+    </Router>
   )
 }
 
