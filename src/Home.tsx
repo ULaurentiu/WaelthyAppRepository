@@ -12,7 +12,6 @@ import React from 'react';
 const Home: React.FC = () => {
 
   return (
-    <Router>
     <div className='main'>
       <div>
         <header className='waelthyheader'>
@@ -138,7 +137,6 @@ const Home: React.FC = () => {
         </footer>
       </div>    
     </div>
-    </Router>
   )
 }
 
