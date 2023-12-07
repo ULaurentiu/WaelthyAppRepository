@@ -14,6 +14,7 @@ const Home: React.FC = () => {
   return (
     <div className='main'>
       <div>
+        <div></div>
         <header className='waelthyheader'>
             <div className='headerdisplay'>
               <img src={waelthylogo} alt='Waelthylogo'/>
