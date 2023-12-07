@@ -32,7 +32,7 @@ const Home: React.FC = () => {
 
         <div className='container'>
           <div className='text-spacing'>
-            <br></br><br></br>
+            <br></br>
             <header className='headerstyle'>
               We bring clarity to your personal finances
             </header>
