@@ -19,41 +19,7 @@ const Home: React.FC = () => {
               <img src={waelthylogo} alt='Waelthylogo'/>
               <span className='wealthytext'>Waelthy</span>
             </div>
-            <div>
-              <span className='text-style'>Visit Blog</span>
-              <Link to="/signin">
-              <button type='button' className='header-button-signin'>Sign In</button>
-              </Link>
-              <Link to="/signup">
-              <button type='button' className='header-button-signup'>Sign Up</button>
-              </Link>
-            </div>
-        </header>
-
-        <div className='container'>
-          <div className='text-spacing'>
-            <br></br>
-            <header className='headerstyle'>
-              We bring clarity to your personal finances
-            </header>
-            <br></br>
-            <span>
-              Explore all your expenses, bills, savings in one place using an easy to use and intuitive app using state-of-the-art security. 
-              Plan your budgets, reach your financial targets. Easily import all your accounts and credit cards, gain visibility into your spendings,
-              optimize your expenses and reach your goals.
-            </span>
-            <br></br>
-            <div>
-            <br></br>
-              <button type='button' className='larger-button'>Get Started</button>
-            </div>
-          </div>
-            <img src={phoneimage} alt='phone-image' className='phone-image'/>
-        </div>
-
-        <div className='container container-spacing'>
-          <img src={phoneplansimage} alt='phoneplans' className='phone-image'/>
-          <div className='container-second-text'>
+            
             <header className='headerstyle'>
               Saving Targets
             </header>
